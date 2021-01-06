@@ -1,0 +1,13 @@
+{
+	"shang":[
+	{"can":"早餐","shu":"2300","img":"img/faxian/meishi01.png"},
+	{"can":"午餐","shu":"4678","img":"img/faxian/meishi02.png"},
+	{"can":"晚餐","shu":"1390","img":"img/faxian/meishi03.png"},
+	{"can":"面食","shu":"6543","img":"img/faxian/meishi04.png"}
+	],
+	"tuijian":[
+	{"name":"欠打厨子","img":"img/1.jpg"},
+	{"name":"厨子欠打","img":"img/44790d722e55ed3a0ba1c34b47a2b28c.jpg"},
+	{"name":"大厨欠打","img":"img/ce3d70eaff9ea04e09d8483b485dddd3.jpg"}
+	]
+}

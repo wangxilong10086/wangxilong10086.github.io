@@ -1,0 +1,12 @@
+[
+		{"name":"美食广场","img":"img/shouye/meishi-guangchang.png"},
+		{"name":"甜点小吃","img":"img/shouye/tiandianxiaochi.png"},
+		{"name":"汉堡披萨","img":"img/shouye/hanbaopisa.png"},
+		{"name":"中式快餐","img":"img/shouye/zhongshikuaican.png"},
+		{"name":"日韩料理","img":"img/shouye/rihanliaoli.png"},
+		{"name":"免配送费","img":"img/shouye/waimai.png"},
+		{"name":"到店自取","img":"img/shouye/daodianziqv.png"},
+		{"name":"饮料甜品","img":"img/shouye/yinliaotianpin.png"},
+		{"name":"水果外卖","img":"img/shouye/shuiguowaimai.png"},
+		{"name":"数码产品","img":"img/shouye/shumachanpin.png"}
+]
